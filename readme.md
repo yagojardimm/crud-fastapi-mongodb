@@ -1,10 +1,10 @@
 <img width="512" height="122" alt="image" src="https://github.com/user-attachments/assets/501c7a12-66df-4103-b0e9-705825cd0276" />
 
 
-Curso: Engenharia de Software
-Disciplica: Laboratório de Backend
-Professor: Fabricio Dias
-Aluno: Yago da Costa Jardim Alves Braga
+**Curso:** Engenharia de Software<br>
+**Disciplina:** Laboratório de Backend<br>
+**Professor:** Fabricio Dias<br>
+**Aluno:** Yago da Costa Jardim Alves Braga
 ---
 
 # 📝 CRUD FastAPI com MongoDB e Docker
